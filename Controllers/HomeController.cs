@@ -8,7 +8,7 @@ namespace just_quiz4_dotnet.Controllers
     {
         public IActionResult Index()
         {
-            ViewBag.Message = "Database access has aleady been done.";
+            ViewBag.Message = "Database access has aleady been done by Justine Aldea.";
             return View();
         }
         
